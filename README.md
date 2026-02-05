@@ -11,5 +11,6 @@ Learn the basics of Python.
 - Error Handling
 - Packages, Libraries, and Modules
 - Unit Tests
+- File I/O
 
 
