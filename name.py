@@ -1,0 +1,8 @@
+import sys
+
+if len(sys.argv) < 2:
+    sys.exit("Too few arguments")
+for arg in sys.argv[1:-1]:
+    print("Hello, My name is", arg)
+
+#slice of the list here -->> [1:]->>> starting from index one to the end of the list.
